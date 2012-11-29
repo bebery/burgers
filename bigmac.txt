@@ -1,7 +1,7 @@
-steak
-cheese
-oignons 
+steak 
+salade
+tomates
+oignons
 cornichons
 ketchup 
 moutarde 
-
